@@ -29,4 +29,4 @@ Preferably, an error handling callback should be done, but, I'm still half aslee
 We'll do it later.
 
 ### Contribution
-To contribute to this project; simply fork this repository, create a branch, make your changes, and submit a Pull Reques.
+To contribute to this project; simply fork this repository, create a branch, make your changes, and submit a Pull Request.
